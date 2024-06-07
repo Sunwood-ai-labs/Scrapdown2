@@ -1,42 +1,88 @@
-
 <p align="center">
-<img src="https://huggingface.co/datasets/MakiAi/IconAssets/resolve/main/Gaiah_icon_2.png" width="100%">
+<img src="https://huggingface.co/datasets/MakiAi/IconAssets/resolve/main/Scrapdown.png" width="100%">
 <br>
-<h1 align="center">Gaiah Generated Repository</h1>
+<h1 align="center">Scrapdown2</h1>
 <h2 align="center">
-  ～Python Git Automation with Innovative Heuristics～
+  ～ Evolutionary Merge Experiment ～
+<br>
+  <img alt="PyPI - Version" src="https://img.shields.io/pypi/v/Scrapdown2">
+<img alt="PyPI - Format" src="https://img.shields.io/pypi/format/Scrapdown2">
+<img alt="PyPI - Implementation" src="https://img.shields.io/pypi/implementation/Scrapdown2">
+<img alt="PyPI - Status" src="https://img.shields.io/pypi/status/Scrapdown2">
+<img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dd/Scrapdown2">
+<img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dw/Scrapdown2">
+<a href="https://github.com/Sunwood-ai-labs/Scrapdown2" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=Scrapdown2&message=Sunwood-ai-labs&color=blue&logo=github"></a>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sunwood-ai-labs/Scrapdown2">
+<a href="https://github.com/Sunwood-ai-labs/Scrapdown2"><img alt="forks - Sunwood-ai-labs" src="https://img.shields.io/github/forks/Scrapdown2/Sunwood-ai-labs?style=social"></a>
+<a href="https://github.com/Sunwood-ai-labs/Scrapdown2"><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Sunwood-ai-labs/Scrapdown2"></a>
+<a href="https://github.com/Sunwood-ai-labs/Scrapdown2"><img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Sunwood-ai-labs/Scrapdown2"></a>
+<img alt="GitHub Release" src="https://img.shields.io/github/v/release/Sunwood-ai-labs/Scrapdown2?color=red">
+<img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/Sunwood-ai-labs/Scrapdown2?sort=semver&color=orange">
+<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/Scrapdown2/publish-to-pypi.yml">
+<br>
+<p align="center">
+  <a href="https://hamaruki.com/"><b>[🌐 Website]</b></a> •
+  <a href="https://github.com/Sunwood-ai-labs"><b>[🐱 GitHub]</b></a>
+  <a href="https://x.com/hAru_mAki_ch"><b>[🐦 Twitter]</b></a> •
+  <a href="https://hamaruki.com/"><b>[🍀 Official Blog]</b></a>
+</p>
 
 </h2>
 
-<p align="center">
-  <a href="https://hamaruki.com/"><b>[🌐 Website]</b></a> •
-  <!-- <a href="https://arxiv.org/abs/2309.17452"><b>[📜 Paper]</b></a> • -->
-  <!-- <a href="https://huggingface.co/llm-agents"><b>[🤗 HF Models]</b></a> • -->
-  <a href="https://github.com/Sunwood-ai-labs/Gaiah"><b>[🐱 GitHub]</b></a>
-  <!-- <a href="https://9557c5365a6f44dc84.gradio.live"><b>[🐯 Gradio Demo]</b></a> -->
-  <a href="https://twitter.com/hAru_mAki_ch"><b>[🐦 Twitter]</b></a> •
-  <!-- <a href="https://www.reddit.com/r/LocalLLaMA/comments/1703k6d/tora_a_toolintegrated_reasoning_agent_for/"><b>[💬 Reddit]</b></a> • -->
-  <a href="https://hamaruki.com/how-to-control-git-with-python-example-of-using-the-gaiah-library/">[🍀 Official Blog]</a>
-  <!-- <a href="#-quick-start">Quick Start</a> • -->
-  <!-- <a href="#%EF%B8%8F-citation">Citation</a> -->
 </p>
 
-</p>
+>[!IMPORTANT]
+>このリポジトリのリリースノートやREADME、コミットメッセージの9割近くは[claude.ai](https://claude.ai/)や[ChatGPT4](https://chatgpt.com/)を活用した[AIRA](https://github.com/Sunwood-ai-labs/AIRA), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), [Gaiah](https://github.com/Sunwood-ai-labs/Gaiah), [HarmonAI_II](https://github.com/Sunwood-ai-labs/HarmonAI_II)で生成しています。
 
+# mergekit-evolve
 
-このリポジトリは、Gaiahというシンプルなリポジトリ管理ツールを使用して自動的に作成されたものです。Gaiahは、人工知能（AI）を活用したコード生成ツールであり、開発者がより効率的にプログラムを作成することを支援します。
+[![Docker Build](https://github.com/YOUR_USERNAME/mergekit-evolve/actions/workflows/docker-build.yml/badge.svg)](https://github.com/YOUR_USERNAME/mergekit-evolve/actions/workflows/docker-build.yml)
 
-## Gaiahについて
+## 🌟 イントロダクション
 
-Gaiahは、開発者がコードを生成し、リポジトリを管理するための便利なCLIツールです。以下のような機能を提供しています:
+このリポジトリは、Sakana.aiの革新的なモデル統合手法「Evolutionary Model Merging」をDocker Composeで手軽に利用できるようにするためのものです。
 
-- コマンドライン引数を使用したリポジトリの作成と初期化
-- コミットメッセージファイルからのコミットの自動処理
-- 新しいリポジトリのGitHub上への作成
-- ファイルの変更検知とステージング、コミット、プッシュの自動化
+約1ヶ月前、Sakana.aiが発表したEvolutionary Model Mergingに関する論文と、その後のモデルと評価結果は、画期的な統合手法として大きな話題を呼びました。しかし、コミュニティにとって残念なことに、彼らはその驚異的な結果をもたらしたアルゴリズムを公開しませんでした。
 
-Gaiahは、開発者がコーディングに集中できるように、リポジトリ管理のプロセスを簡素化し、自動化します。
+Arceeでは、この発表以来、コミュニティのためにこの画期的な技術を開発することに全力を注いできました。そして今、MergeKitでこの最先端の機能をリリースできることを嬉しく思います。
 
-## リポジトリの構造
+Evolutionary Model Mergingにより、マージにおいて特定の能力や特性をターゲットにすることができます。これがなければ、モデルのマージは、何十ものマージを試行し、手動で評価し、マージパラメータと最終モデルのパフォーマンスの関係を説明するメンタルフレームワークを考え出すという、非常に手探りで探索的なプロセスになります。Evolutionary Model Mergingを使用すると、代わりにモデルに求める特性を指定することができ、最適化は私たちに代わって行ってくれます。
 
-このリポジトリは、Gaiahによって自動的に生成および管理されています。リポジトリの構造は以下のようになっています:
+## 🚀 はじめに
+
+### 特徴
+
+- Docker Composeで簡単に環境構築が可能
+- mergekit-evolveの最新バージョンを常に利用可能
+- シンプルな設定で、すぐに使い始めることができます
+
+### インストール
+
+1. このリポジトリをクローンします。
+2. `.env` ファイルを編集し、必要に応じて環境変数を設定します。
+3. `docker-compose up -d` コマンドを実行します。
+
+## 🎥 デモ
+
+(ここにデモ動画へのリンクを挿入)
+
+## 📝 アップデート
+
+(ここにアップデート情報を記載)
+
+## 🤝 コントリビューション
+
+(ここにコントリビューションに関する情報を記載)
+
+## 📄 ライセンス
+
+このリポジトリは、[MIT License](LICENSE) の下でライセンスされています。
+
+## 🙏 謝辞
+
+このリポジトリは、Sakana.aiまたはArceeとは一切関係ありません。
+
+## 免責事項
+
+このリポジトリは、Sakana.aiまたはArceeとは一切関係ありません。
+
