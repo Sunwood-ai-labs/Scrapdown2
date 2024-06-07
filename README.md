@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://huggingface.co/datasets/MakiAi/IconAssets/resolve/main/Scrapdown.png" width="100%">
+<img src="https://huggingface.co/datasets/MakiAi/IconAssets/resolve/main/scrapdown.png" width="100%">
 <br>
 <h1 align="center">Scrapdown2</h1>
 <h2 align="center">
